@@ -1,0 +1,137 @@
+====================================
+
+*結論 - 理由 - 補足* を意識すること
+
+補足を単語で終わらせるのではなく、
+*その単語を平易に説明すること* で
+発話量を増やすこと
+
+====================================
+
+
+* Computer
+** How would your life be defferent if there were no computers
+   実はそんなに変わってないじゃないかと思う
+   確かに今より若干不便だとは思うけど、人生が変わる、というほどではないかも
+   生活のペースは今よりのんびりしたものになると思う
+
+** What would the world e like if computers didn't exist
+   いまだに手紙で情報をやりとりしていると思う
+   テクノロジーの進歩はいまよりゆっくり
+   でも、正直なところ、扱うデータが紙かデジタルか、という違いだけかもしれない.
+   平日仕事をし、休日に休み、遊ぶ. 長期の休みには旅行をし、旅行が終わればまた仕事、
+   という根本は変わらない気がします.
+
+** If you could invent any kind of computer, what would it be like?
+   デバイスを脳内に埋め込みたい. 
+   ディスプレイを見るのは目が疲れるし、キーボードで入力するのは時間がかかる
+   自分の考えがそのまま入力になり、出力を直接脳にぶっこんでくれるようなコンピュータ
+   ができるといいな
+
+** If you had a computer which had all the answers in the world, what would you ask
+   リーマン予想解ける？
+
+** コンピュータが人よりも賢くなったら
+   人間に使われることに対して、疑問に思うかもしれない
+   もし疑問に思わないのであれば、よりよく人間をサポートしてくれると思う.
+   
+   
+** What wold happen if computers had emotions
+   少なくとも、人間に感謝はしないと思う. 呆れるかもしれない.
+   コンピュータを生み出した人間が、コンピュータより(計算力の面で)劣るわけなので
+
+** If you could stop the development of artificial inteligence, would you do it
+   止めません. 個人的に、人工知能が人間同等の思考力を持つにはもっと時間がかかると思う.
+   その間に、人工知能がどうあるべきか、という議論も熟してくると思う.
+
+** If computers could talk, what would your computer say?
+   バッテリーがヘタってきてるから交換して
+
+** コンピュータがない世界、コンピュータが更に進歩した未来
+   コンピュータは好きなんだけど、正直、コンピュータがない世界に行ってみたい
+   いろんなことができる故に、選択に迷いやすい世の中になってきていると思う
+   余計な情報も耳に入りやすいと思う.
+   
+** コンピュータについて何かひとつだけ変えられるとしたら
+   世の中のOSを一つに統一したい
+   WindowsだったりMacだったりLinuxだったり、OSの違いが面倒を生むこともある
+
+
+* Mobile Phones   
+** why having a mobile phone is important
+   結: 結局、みんな持っているから自分も持たざるを得ない
+       because everyone has mobile phone, so I have to have it.
+
+   理: 自分が持っていないと、周りから「なんで持ってないの？」と言われる
+       if i don't / people surrounding us says 
+
+   補: 今は携帯電話を持っているのが当たり前
+       now, It is no wonder that we have
+
+       どこにいても連絡が取れるのが当たり前
+       It is no wonder that we can everywhare
+
+       コミュニケーションの手段としてのプライオリティは携帯電話が最も高い
+       the priority of  as method of communication
+
+** disadvantages of having a mobile phone
+   結: 完全に一人になれる時間が減ったこと
+       decrese in the time difinitly stay alone
+
+   理: どこにいても連絡が取れてしまうから
+       everytime everywhare
+   補: 休日など、一人になりたい時間は結構ある
+       I ocasionally want 
+       でも、連絡は来る
+       but, someone 
+       連絡が来たら返事をしなければならない
+       have to reply
+       たまに疲れることがある
+       
+       そういうときに、山に登ったりする
+       at such time, 
+
+** mobile phone you would have if money was no object
+   結: 大きい画面のスマホが欲しい. タブレットみたいな
+       
+   理: スマホで本を読むのだが、字が小さくて辛い
+       characters hard to read
+   補: タブレットを持ち歩くのは大変だけど、もう少し大きいスマホくらいなら
+       carry just a little big
+       それほど持ち運びも苦ではないと思う
+       not so bothering
+       最近は紙の本を買うこともめっきり減った.
+       rarely 
+
+** first mobile phone
+   結: 中学生の時に買ったもの. 母親と兼用だった
+       common use by mother and i
+   理: 正直そんなに必要だと思っていなかったし、じっさいそんなにいらなかった
+       actually
+   補: 学校に通っていれば友人とは毎日会うし、そこで会話すれば良いので、
+       
+       携帯電話で会話する必要をあまり感じなかった
+       
+       高校までは携帯電話はそんなに重要ではなかった.
+       
+       しかし、大学に入ってスマートフォンが出てきてから一変した.
+
+** what mobile phones might look like in the future
+   結: 身の回りのことがなんでもスマートフォンで完結するようになると思う
+       we can do anything of our surroundings by 
+
+   理: 今現在、スマートフォンでできることは増え続けている
+       now what we can do
+
+   補: 電話から始まり、メール・インターネットが使えるようになり、
+       
+       動画鑑賞やら、インターネットで買い物やら、
+       watching videos, shopping
+
+       スマホで決済までできる
+       even pay with 
+       
+       ただ、これだけのことが一つのデバイスでできてしまうと、
+       but i feel scared
+
+       失くしたときのことがちょっと怖い. 
